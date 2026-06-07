@@ -15,7 +15,7 @@ const nextConfig = {
   poweredByHeader: false,
   compress: true,
   // Minimize build size
-  swcMinify: true,
+ 
   // No image optimization needed
   images: {
     unoptimized: true
